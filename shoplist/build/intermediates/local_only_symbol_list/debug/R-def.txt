@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+id latest_list_icon
+id main
+id message
+id title
+layout main_fragment

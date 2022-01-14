@@ -1,0 +1,4 @@
+com/netguru/codereview/shoplist/databinding/MainFragmentBinding.java
+ com.netguru.codereview.shoplist.databinding.MainFragmentBinding
+com/netguru/codereview/shoplist/BuildConfig.java
+ com.netguru.codereview.shoplist.BuildConfig
